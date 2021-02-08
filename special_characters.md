@@ -15,3 +15,22 @@ Warning. Quite similar to `ek­lig` which means `yukky, disgusting` but also som
 - auch `geschwungene Klammer`
 
 - enclosed by curly braces `müssen von geschweiften Klammern umgeben werden` 
+
+## Semicolon, Strichpunkt (der, die Strichpunkte), das Semikolon (die Semikolons/die Semikola)
+- es fehlt lediglich (only) eine Klammer oder ein Semikolon
+- ...einen Datentyp zuweisen `...assign a data type`
+
+## Indentation, Einrückung (die, Einrückungen)
+- Tabulatorzeichen `Tab characters`
+- Leerzeichen `Spaces`
+
+## Vergleichszeichen (das, die ...zeichen)
+- \> Größer-als-Zeichen 
+- \< Kleiner-als-Zeichen
+- = Gleichheitszeichen
+- <= kleiner als oder gleich
+- \>= größer als oder gleich
+
+## Anführungszeichen (das, die ...zeichen)
+- " " Anführungszeichen
+- ' ' einfache Anführungszeichen, Apostroph (der, die Apostrophe), Auslassungszeichen, Oberhäklein (das), Hochkomma (die, die Kommas/die Kommata)
