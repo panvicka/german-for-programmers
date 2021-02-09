@@ -14,5 +14,7 @@ Every one loves them!
 - `It is completely unclear to me` Es ist mir vollkommen unklar.
 - `I don't care at all` Es ist mir vollkommen egal.
 - `To do this job...` Um diese Aufgabe zu erledigen....
-
- 
+- `However, the problem often arises that ...` Dabei tritt jedoch oftmals das Problem auf, dass...
+- `The task is not clear at first glance` Die Aufgabe ist nicht auf den ersten blick klar
+- `original writer` ursprüngliche Verfasser 
+- `add a comment... (formal)` Fügen Sie einen Kommentar... 
