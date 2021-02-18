@@ -20,7 +20,5 @@
   - Leerzeichen `spaces`
 - Kommandozeile/Befehlszeile (die), Kommandozeileninterpreter (der) `command-line`
 - Dateiendung  `file extension`
-- Produktionsabläufe `Production processes`
-- Da ist noch Luft nach oben `There is still room for improvement`
-- Wert der Variablen x `Value of the variable x`
+
 - 

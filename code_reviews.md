@@ -18,3 +18,11 @@ Every one loves them!
 - `The task is not clear at first glance` Die Aufgabe ist nicht auf den ersten blick klar
 - `original writer` ursprüngliche Verfasser 
 - `add a comment... (formal)` Fügen Sie einen Kommentar... 
+- `Production processes` Produktionsabläufe
+- `There is still room for improvement` Da ist noch Luft nach oben 
+- `Value of the variable x` Wert der Variablen x 
+- my favorite way of saying `That is not a problem either` Das ist auch nicht weiter schlimm
+- `unconscious incompetence`  unbewussten inkompetenz 
+- `There is nothing wrong with the wish to simply carry on as before` Gegen den Wunsch, einfach immer so weiterzumachen wie bisher, ist erst einmal nichts einzuwenden.
+- `One cannot search for concepts that one does not know` Nach Konzepten, die man nicht kennt, kann man nicht suchen.
+- `Temporary solutions last the longest` Provisorien halten am längsten
