@@ -26,3 +26,13 @@ Every one loves them!
 - `There is nothing wrong with the wish to simply carry on as before` Gegen den Wunsch, einfach immer so weiterzumachen wie bisher, ist erst einmal nichts einzuwenden.
 - `One cannot search for concepts that one does not know` Nach Konzepten, die man nicht kennt, kann man nicht suchen.
 - `Temporary solutions last the longest` Provisorien halten am längsten
+- `nested loops` ineinandergeschachtelte Schleifen
+- `estimate halfway true...` halbwegs zutreffend einschätzen...
+- `Underestimating a task` Unterschätzung einer Aufgabe
+- `they were a little more difficult than usual`sie seien etwas schwieriger gewesen als sonst` 
+- `Code jungle` Codedschungel
+- `maybe not immediately, but at least at some point` vielleicht nicht sofort, aber doch zumindest irgendwann.
+- `Disgust at your own code` Ekel vor dem eigenen Code
+- `the worst spaghetti code` der schlimmste Spaghetticode
+- `Mediocre code` Mittelmäßiger Code 
+- `to do the thing reasonably well` die Sache halbwegs gut zu machen
