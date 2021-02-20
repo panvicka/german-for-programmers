@@ -36,3 +36,4 @@ Every one loves them!
 - `the worst spaghetti code` der schlimmste Spaghetticode
 - `Mediocre code` Mittelmäßiger Code 
 - `to do the thing reasonably well` die Sache halbwegs gut zu machen
+- `These class names are controversial` Diese Klassenbezeichnungen sind umstritten
