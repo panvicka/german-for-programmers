@@ -21,4 +21,5 @@
 - `command-line` Kommandozeile/Befehlszeile (die), Kommandozeileninterpreter (der) 
 - `file extension` Dateiendung  
 
-- `Kapselung` Encapsulation 
+- `Encapsulation` Kapselung` 
+- `Join tables` Kreuztabellen

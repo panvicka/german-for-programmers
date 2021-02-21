@@ -37,3 +37,5 @@ Every one loves them!
 - `Mediocre code` Mittelmäßiger Code 
 - `to do the thing reasonably well` die Sache halbwegs gut zu machen
 - `These class names are controversial` Diese Klassenbezeichnungen sind umstritten
+- `He explains the overall context to us.` Er erklärt uns den Gesamtkontext.
+- `it's a bit stupid`  ein bisschen bescheuert ist das schon
