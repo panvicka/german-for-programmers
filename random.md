@@ -23,3 +23,8 @@
 
 - `Encapsulation` Kapselung` 
 - `Join tables` Kreuztabellen
+
+- `tricky` heikel 
+- `Foreign code snippet` Fremdcodeschnipsel (usually something from stack overflow)
+- `Stubbornness` Sturheit
+- `only in an extreme emergency (ie never)` nur im äußersten Notfall (also nie)

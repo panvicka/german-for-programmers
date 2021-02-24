@@ -39,3 +39,5 @@ Every one loves them!
 - `These class names are controversial` Diese Klassenbezeichnungen sind umstritten
 - `He explains the overall context to us.` Er erklärt uns den Gesamtkontext.
 - `it's a bit stupid`  ein bisschen bescheuert ist das schon
+- `a fundamental reluctance` ein grundsätzlicher Unwille
+- `completely meaningless` vollkommen nichtssagend
