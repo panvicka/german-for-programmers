@@ -41,3 +41,4 @@ Every one loves them!
 - `it's a bit stupid`  ein bisschen bescheuert ist das schon
 - `a fundamental reluctance` ein grundsätzlicher Unwille
 - `completely meaningless` vollkommen nichtssagend
+- 
