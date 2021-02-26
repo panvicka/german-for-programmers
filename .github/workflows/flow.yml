@@ -1,7 +1,7 @@
 on:
   push:
-    paths:
-      - 'files/**'
+    branches:
+      - master
 
 name: CreatePDFs
 
