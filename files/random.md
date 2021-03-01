@@ -28,3 +28,14 @@
 - `Foreign code snippet` Fremdcodeschnipsel (usually something from stack overflow)
 - `Stubbornness` Sturheit
 - `only in an extreme emergency (ie never)` nur im äußersten Notfall (also nie)
+- `on the wrong track` auf eine falsche Fährte
+- `it-works-on-my-PC syndrome` »Bei mir geht’s aber«-Syndrom
+- `unrealistic expectations` unrealistische Erwartungen
+- `conflicting requirements` widersprüchlichen Anforderungen
+- `by no means self-evident` keineswegs selbstverständlich
+- `edge case` Randbereich
+- `everything that can go wrong will go wrong at some point` alles, was schiefgehen kann, auch irgendwann schiefgehen wird
+- `In fact, mostly true` Stimmt sogar meist
+- `merged back` zurückgemergt 
+- `You're only making the situation worse` Sie machen die Lage dadurch nur schlimmer (polite)
+ 

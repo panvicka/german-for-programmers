@@ -41,4 +41,7 @@ Every one loves them!
 - `it's a bit stupid`  ein bisschen bescheuert ist das schon
 - `a fundamental reluctance` ein grundsätzlicher Unwille
 - `completely meaningless` vollkommen nichtssagend
-- 
+- `stupid beyond measure` über die Maßen dumm
+- `this practice is not fundamentally wrong` dieses Verfahren ist nicht grundsätzlich falsch
+- `always include a termination criterion (for while loops etc)` immer ein Abbruchkriterium einbauen 
+- `Read the damn documentation!` Lies die verfluchte Dokumentation!
