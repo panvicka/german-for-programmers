@@ -32,6 +32,7 @@ Every one loves them!
 - `they were a little more difficult than usual`sie seien etwas schwieriger gewesen als sonst` 
 - `Code jungle` Codedschungel
 - `maybe not immediately, but at least at some point` vielleicht nicht sofort, aber doch zumindest irgendwann.
+- `Under what conditions does the error occur` Unter welchen Bedingungen tritt der Fehler auf
 - `Disgust at your own code` Ekel vor dem eigenen Code
 - `the worst spaghetti code` der schlimmste Spaghetticode
 - `Mediocre code` Mittelmäßiger Code 
@@ -45,3 +46,4 @@ Every one loves them!
 - `this practice is not fundamentally wrong` dieses Verfahren ist nicht grundsätzlich falsch
 - `always include a termination criterion (for while loops etc)` immer ein Abbruchkriterium einbauen 
 - `Read the damn documentation!` Lies die verfluchte Dokumentation!
+- `the old mistake in a new guise` der alte Fehler in neuem Gewand

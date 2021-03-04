@@ -38,4 +38,5 @@
 - `In fact, mostly true` Stimmt sogar meist
 - `merged back` zurückgemergt 
 - `You're only making the situation worse` Sie machen die Lage dadurch nur schlimmer (polite)
- 
+- `Systematic troubleshooting` Systematische Fehlersuche
+- `Brief step-by-step description` Kurze Schritt-für-Schritt-Beschreibung
