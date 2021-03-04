@@ -47,3 +47,4 @@ Every one loves them!
 - `always include a termination criterion (for while loops etc)` immer ein Abbruchkriterium einbauen 
 - `Read the damn documentation!` Lies die verfluchte Dokumentation!
 - `the old mistake in a new guise` der alte Fehler in neuem Gewand
+- `We tend to...` Wir neigen dazu...

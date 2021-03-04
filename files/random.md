@@ -20,6 +20,9 @@
   - `spaces` Leerzeichen 
 - `command-line` Kommandozeile/Befehlszeile (die), Kommandozeileninterpreter (der) 
 - `file extension` Dateiendung  
+- `the green arrow`  der grüne Pfeil
+- `the red rectangle` das rote Rechteck
+- `das rote Rechteck` the middle arrow
 
 - `Encapsulation` Kapselung` 
 - `Join tables` Kreuztabellen
@@ -40,3 +43,12 @@
 - `You're only making the situation worse` Sie machen die Lage dadurch nur schlimmer (polite)
 - `Systematic troubleshooting` Systematische Fehlersuche
 - `Brief step-by-step description` Kurze Schritt-für-Schritt-Beschreibung
+- `not having to think too hard` nicht allzu hart nachdenken zu müssen
+- `we often stand in our own way` wir stehen uns oft selbst im Weg
+- `compilation error` Kompilation Fehler
+- `runtime error` Laufzeitfehler
+- `log entries` Logeinträge
+- `step into` hineinsteppen
+- `rubber duck` Gummiente
+- `scroll around` umherzuscrollen
+- `rule of thumb` Faustregel
