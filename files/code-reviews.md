@@ -33,6 +33,7 @@ Every one loves them!
 - `Code jungle` Codedschungel
 - `maybe not immediately, but at least at some point` vielleicht nicht sofort, aber doch zumindest irgendwann.
 - `Under what conditions does the error occur` Unter welchen Bedingungen tritt der Fehler auf
+- `Commented code blocks` Auskommentierte Codeblöcke
 - `Disgust at your own code` Ekel vor dem eigenen Code
 - `the worst spaghetti code` der schlimmste Spaghetticode
 - `Mediocre code` Mittelmäßiger Code 
@@ -48,3 +49,7 @@ Every one loves them!
 - `Read the damn documentation!` Lies die verfluchte Dokumentation!
 - `the old mistake in a new guise` der alte Fehler in neuem Gewand
 - `We tend to...` Wir neigen dazu...
+- `The class is difficult to understand` Die Klasse ist schwer zu verstehen
+- `the class can be split into several classes`  die Klasse kann in mehrere Klassen aufgespalten werden 
+- `medium well thought-out nonsense` mittelgut ausgedachter Unfug
+- `that could be clearer` das könnte klarer sein
