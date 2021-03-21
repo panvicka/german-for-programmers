@@ -54,3 +54,4 @@
 - `rule of thumb` Faustregel
 - `difficult to maintain`  schwer wartbar
 - `to be mentally already with the beer after work` gedanklich schon beim Feierabendbier sein
+- `splitting strings` Aufspalten von Strings

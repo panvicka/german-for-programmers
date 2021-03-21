@@ -17,6 +17,7 @@ Every one loves them!
 - `However, the problem often arises that ...` Dabei tritt jedoch oftmals das Problem auf, dass...
 - `The task is not clear at first glance` Die Aufgabe ist nicht auf den ersten blick klar
 - `original writer` ursprüngliche Verfasser 
+- `this code is no good` dieser Code ist nicht gut
 - `add a comment... (formal)` Fügen Sie einen Kommentar... 
 - `Production processes` Produktionsabläufe
 - `There is still room for improvement` Da ist noch Luft nach oben 
@@ -31,12 +32,14 @@ Every one loves them!
 - `Underestimating a task` Unterschätzung einer Aufgabe
 - `they were a little more difficult than usual`sie seien etwas schwieriger gewesen als sonst` 
 - `Code jungle` Codedschungel
+- `Signs of laziness` Anzeichen für Denkfaulheit
 - `maybe not immediately, but at least at some point` vielleicht nicht sofort, aber doch zumindest irgendwann.
 - `Under what conditions does the error occur` Unter welchen Bedingungen tritt der Fehler auf
 - `Commented code blocks` Auskommentierte Codeblöcke
 - `Disgust at your own code` Ekel vor dem eigenen Code
 - `the worst spaghetti code` der schlimmste Spaghetticode
 - `Mediocre code` Mittelmäßiger Code 
+- `Changes need to be made in several places` Änderungen an mehreren Stellen vorgenommen werden müssen
 - `to do the thing reasonably well` die Sache halbwegs gut zu machen
 - `These class names are controversial` Diese Klassenbezeichnungen sind umstritten
 - `He explains the overall context to us.` Er erklärt uns den Gesamtkontext.
@@ -53,3 +56,4 @@ Every one loves them!
 - `the class can be split into several classes`  die Klasse kann in mehrere Klassen aufgespalten werden 
 - `medium well thought-out nonsense` mittelgut ausgedachter Unfug
 - `that could be clearer` das könnte klarer sein
+- `Indifference to small things is a sign that more important issues have probably been sloppy` "Gleichgültigkeit in Kleinigkeiten ist ein Anzeichen dafür, dass wahrscheinlich auch in wichtigeren Fragen geschlampt wurde." - found on stackoverflow 
